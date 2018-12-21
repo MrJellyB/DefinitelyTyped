@@ -1,3 +1,9 @@
+// Type definitions for nexusui v2.0.7
+// Project: https://github.com/nexus-js/ui
+// Definitions by: NoamShvacher <https://github.com/MrJellyB>
+// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
+
+
 declare module "nexusui" {
     export class Interval { }
     export class Matrix { }
